@@ -1,0 +1,17 @@
+.para {
+    border: 2px solid red;
+    font-size: 20px;
+    margin:50px;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: rgb(197, 100, 100);
+}
+
+a:hover{
+    color: green;
+}
